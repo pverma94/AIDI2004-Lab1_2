@@ -1,1 +1,5 @@
-# AIDI2004-Lab1_2
+# AIDI2004-Lab1 Scenario 2
+
+## Prashant Verma
+
+### 100967364 
